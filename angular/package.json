@@ -1,0 +1,17 @@
+{
+  "name": "@iamnonroot/easy-peasy-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^15.0.2",
+    "@angular/core": "^15.0.2",
+    "@angular/platform-browser": "^15.0.2"
+  }
+}

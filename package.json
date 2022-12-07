@@ -1,0 +1,27 @@
+{
+  "name": "@iamnonroot/easy-peazy",
+  "version": "0.0.1",
+  "description": "Utils and better cx",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "utils",
+    "cx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamnonroot/easy-peasy.git"
+  },
+  "author": {
+    "name": "!Root",
+    "email": "iamnonroot@gmail.com",
+    "url": "https://iamroot.ir"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "jalali-moment": "^3.3.11"
+  }
+}
